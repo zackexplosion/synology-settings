@@ -1,5 +1,9 @@
 # Enable SSH User Login Other Than Root
 
+copy from <http://forum.synology.com/enu/viewtopic.php?f=36&t=9015&hilit=enable+ssh+user+login+other+than+root>
+
+--
+
 In order to make SSH more secure I wanted to do 5 things;
 * Enable SSH login for a non-root user
 * Enable "su" in order to elevate permissions when necessary
